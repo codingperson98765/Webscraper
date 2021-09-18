@@ -1,2 +1,2 @@
-# super-eureka
+# WebScraper
 Text based web scraper Using Python
